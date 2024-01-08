@@ -26,7 +26,7 @@ params = {
 }
 
 if url == "":
-    mr = (API+"id="+id+"&url="+"https://im.q.com"+"\n")
+    mr = (API+"id="+id+"&url="+"https://im.qq.com"+"\n")
     print(mr)
     print("---本轮脚本已结束---")
 else:
